@@ -7,6 +7,16 @@ body {
 img {
     width: 26%;
     margin-left: 37%;
+    margin-bottom: 3%;
+}
+.huflag {
+    width: 5%;
+}
+.enflag {
+    width: 5%;
+    margin-left: 0;
+    margin-right: 37%;
+    float: right;
 }
 .nameplate {
     text-align: center;
@@ -21,6 +31,7 @@ h2 {
 }
 p {
    margin-left: 15%;
+   line-height: 30px;
 }
 div {
     margin-top: 50px;
