@@ -1,12 +1,27 @@
 body {
     background-color: ivory;
-    margin: 0;
+    margin: 5%;
+    border: solid 3px crimson;
+    padding: 5%;
 }
 img {
-    width: 20%;
-    margin-left: 40%;
+    width: 26%;
+    margin-left: 37%;
 }
-h1{
-    text-align: center
-    
+.nameplate {
+    text-align: center;
+    padding: 40px;
+    margin: 0 37%;
+    line-height: 50px;
+}
+h2 {
+    color: crimson;
+    border-bottom: solid 3px crimson;
+    margin: 50px 37% auto 10%;
+}
+p {
+   margin-left: 15%;
+}
+div {
+    margin-top: 50px;
 }
