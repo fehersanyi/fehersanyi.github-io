@@ -1,2 +1,2 @@
-# fehersanyi.github-io
+# fehersanyi.github.io
 webpage practice
