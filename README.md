@@ -1,2 +1,2 @@
-# fehersanyi.github.io/index-hu.html
+# fehersanyi.github.io
 webpage practice
